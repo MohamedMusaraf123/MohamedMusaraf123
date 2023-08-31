@@ -1,4 +1,4 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-208ff77860.gif)
 <h1 align="center">Hi 👋, I'm Mohamed Musaraf</h1>
 <h3 align="center">Diving into the Stack: My Full Stack Developer Portfolio on GitHub</h3>
 <img align="right" alt="Coding" width="400" src="http://surl.li/fpjzk">
